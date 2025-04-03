@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="drawer_layout" type="id">drawer_layout</item>
+    <item name="nav_view" type="id">nav view</item>
+    <item name="nav_notes" type="id">nav notes</item>
+    <item name="notesFragment" type="id">notesFragment</item>
+    <item name="nav_password_manager" type="id">nav password manager</item>
+    <item name="passwordManagerFragment" type="id">passwordManagerFragment</item>
+</resources>

@@ -43,4 +43,10 @@
         libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
+    <string name="go_to_notes">Go to Notes</string>
+    <string name="go_to_password_manager">go to password manager\n</string>
+    <string name="home">home\n</string>
+    <string name="Home">Home\n</string>
+    <string name="click_to_go_write_some_notes">Click to write some notes!</string>
+    <string name="third_fragment_label">third fragment label\n</string>
 </resources>
